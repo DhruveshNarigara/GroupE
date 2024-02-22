@@ -62,7 +62,7 @@
                 <select asp-for="c_studcourse_id" class="form-control" asp-items="ViewBag.Courses"></select>
                 <span asp-validation-for="c_studcourse_id" class="text-danger"></span>
             </div>
-            @* <div class="form-group">
+             <div class="form-group">
             <label asp-for="c_studphotoFile" class="control-label"></label>
             <input asp-for="c_studphotoFile" type="file" class="form-control" />
             <span asp-validation-for="c_studphotoFile" class="text-danger"></span>
@@ -71,7 +71,7 @@
             <label asp-for="c_studuploaddocFile" class="control-label"></label>
             <input asp-for="c_studuploaddocFile" type="file" class="form-control" />
             <span asp-validation-for="c_studuploaddocFile" class="text-danger"></span>
-            </div> *@
+            </div> 
 
             <div class="form-group">
                 <label asp-for="c_studphotoFile" class="control-label"></label>
@@ -108,4 +108,4 @@
     @{
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
     }
-}
+} 

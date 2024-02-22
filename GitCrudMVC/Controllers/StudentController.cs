@@ -8,7 +8,7 @@ using Microsoft.Extensions.Logging;
 
 namespace GitCrudMVC.Controllers
 {
-    [Route("[controller]")]
+    // [Route("[controller]")]
     public class StudentController : Controller
     {
         private readonly ILogger<StudentController> _logger;

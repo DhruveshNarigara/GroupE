@@ -436,19 +436,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Devarsh Patel\\.nuget\\packages\\": {}
+    "C:\\Users\\rajat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\interns053\\GroupE-1\\GitCrudMVC\\GitCrudMVC.csproj",
+      "projectUniqueName": "D:\\Internship_Casepoint\\GroupE-1\\GitCrudMVC\\GitCrudMVC.csproj",
       "projectName": "GitCrudMVC",
-      "projectPath": "C:\\interns053\\GroupE-1\\GitCrudMVC\\GitCrudMVC.csproj",
-      "packagesPath": "C:\\Users\\Devarsh Patel\\.nuget\\packages\\",
-      "outputPath": "C:\\interns053\\GroupE-1\\GitCrudMVC\\obj\\",
+      "projectPath": "D:\\Internship_Casepoint\\GroupE-1\\GitCrudMVC\\GitCrudMVC.csproj",
+      "packagesPath": "C:\\Users\\rajat\\.nuget\\packages\\",
+      "outputPath": "D:\\Internship_Casepoint\\GroupE-1\\GitCrudMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Devarsh Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rajat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

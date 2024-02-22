@@ -1,7 +1,27 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/Users/preyamehta/GroupE/GitCrudMVC/GitCrudMVC.csproj": {}
+=======
+<<<<<<< HEAD
+    "/Users/dhruveshnarigara/Documents/CASE POINT INTERNSHIP/DOTNET CORE MVC CLAERNT/GroupE/GitCrudMVC/GitCrudMVC.csproj": {}
+  },
+  "projects": {
+    "/Users/dhruveshnarigara/Documents/CASE POINT INTERNSHIP/DOTNET CORE MVC CLAERNT/GroupE/GitCrudMVC/GitCrudMVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dhruveshnarigara/Documents/CASE POINT INTERNSHIP/DOTNET CORE MVC CLAERNT/GroupE/GitCrudMVC/GitCrudMVC.csproj",
+        "projectName": "GitCrudMVC",
+        "projectPath": "/Users/dhruveshnarigara/Documents/CASE POINT INTERNSHIP/DOTNET CORE MVC CLAERNT/GroupE/GitCrudMVC/GitCrudMVC.csproj",
+        "packagesPath": "/Users/dhruveshnarigara/.nuget/packages/",
+        "outputPath": "/Users/dhruveshnarigara/Documents/CASE POINT INTERNSHIP/DOTNET CORE MVC CLAERNT/GroupE/GitCrudMVC/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dhruveshnarigara/.nuget/NuGet/NuGet.Config"
+=======
+    "C:\\interns053\\GroupE-1\\GitCrudMVC\\GitCrudMVC.csproj": {}
+>>>>>>> origin/Dhruvesh
   },
   "projects": {
     "/Users/preyamehta/GroupE/GitCrudMVC/GitCrudMVC.csproj": {
@@ -14,12 +34,25 @@
         "outputPath": "/Users/preyamehta/GroupE/GitCrudMVC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
+<<<<<<< HEAD
           "/Users/preyamehta/.nuget/NuGet/NuGet.Config"
+=======
+          "C:\\Users\\Devarsh Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> origin/Devarsh
+>>>>>>> origin/Dhruvesh
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+>>>>>>> origin/Devarsh
+>>>>>>> origin/Dhruvesh
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,7 +95,15 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+=======
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
+>>>>>>> origin/Devarsh
+>>>>>>> origin/Dhruvesh
         }
       }
     }

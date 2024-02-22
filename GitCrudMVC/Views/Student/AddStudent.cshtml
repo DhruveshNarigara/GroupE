@@ -1,0 +1,63 @@
+@model GitCrudMVC.StudentRegModel
+
+<h2>Add Student</h2>
+
+
+
+<form asp-controller="YourControllerName" asp-action="AddStudent" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="c_studname"></label>
+        <input asp-for="c_studname" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="c_studdob"></label>
+        <input asp-for="c_studdob" class="form-control" type="date" />
+    </div>
+    <div class="form-group">
+        <label asp-for="c_studemail"></label>
+        <input asp-for="c_studemail" class="form-control" type="email" />
+    </div>
+    <div class="form-group">
+        <label asp-for="c_studpassword"></label>
+        <input asp-for="c_studpassword" class="form-control" type="password" />
+    </div>
+    <div class="form-group">
+        <label asp-for="c_studgender"></label>
+        <input asp-for="c_studgender" class="form-control" type="radio" value="Male" /> Male
+        <input asp-for="c_studgender" class="form-control" type="radio" value="Female" /> Female
+    </div>
+    <div class="form-group">
+        <label asp-for="c_studmobile"></label>
+        <input asp-for="c_studmobile" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="c_studaddress"></label>
+        <input asp-for="c_studaddress" class="form-control" />
+    </div>
+
+    <div class="form-group">
+    <label asp-for="c_studcourse_id"></label>
+    <select asp-for="c_studcourse_id" asp-items="ViewBag.CourseList" class="form-control"></select>
+</div>
+    <div class="form-group">
+        <label asp-for="c_studuploaddocFile"></label>
+        <input asp-for="c_studuploaddocFile" class="form-control" type="file" />
+    </div>
+    <div class="form-group">
+        <label asp-for="c_studphoto"></label>
+        <input asp-for="c_studphoto" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="c_studuploaddoc"></label>
+        <input asp-for="c_studuploaddoc" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="c_studlanguages"></label>
+        <select asp-for="c_studlanguages" class="form-control" multiple>
+            <option value="English">English</option>
+            <option value="Spanish">Spanish</option>
+            
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

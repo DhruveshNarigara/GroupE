@@ -7,7 +7,7 @@ namespace GitCrudMVC.Models
 {
     public class UserModel
     {
-        public int c_userid{ get ; set ;}
+         public int c_userid{ get ; set ;}
         
         public string c_username { get ; set ;}
 

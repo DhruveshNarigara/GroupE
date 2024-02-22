@@ -28,7 +28,7 @@ namespace GitCrudMVC.Controllers
             return View();
         }
 
-        public IActionResult Register()
+         public IActionResult Register()
         {
             return View();
         }

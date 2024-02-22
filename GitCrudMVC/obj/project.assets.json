@@ -436,13 +436,35 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
+<<<<<<< HEAD
+    "/Users/dhruveshnarigara/.nuget/packages/": {}
+=======
+    "C:\\Users\\Devarsh Patel\\.nuget\\packages\\": {}
+>>>>>>> origin/Devarsh
+>>>>>>> origin/Dhruvesh
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Company-assginment\\Internship-assignment\\GroupE\\GitCrudMVC\\GitCrudMVC.csproj",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "/Users/dhruveshnarigara/Documents/CASE POINT INTERNSHIP/DOTNET CORE MVC CLAERNT/GroupE/GitCrudMVC/GitCrudMVC.csproj",
+      "projectName": "GitCrudMVC",
+      "projectPath": "/Users/dhruveshnarigara/Documents/CASE POINT INTERNSHIP/DOTNET CORE MVC CLAERNT/GroupE/GitCrudMVC/GitCrudMVC.csproj",
+      "packagesPath": "/Users/dhruveshnarigara/.nuget/packages/",
+      "outputPath": "/Users/dhruveshnarigara/Documents/CASE POINT INTERNSHIP/DOTNET CORE MVC CLAERNT/GroupE/GitCrudMVC/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/dhruveshnarigara/.nuget/NuGet/NuGet.Config"
+=======
+      "projectUniqueName": "C:\\interns053\\GroupE-1\\GitCrudMVC\\GitCrudMVC.csproj",
+>>>>>>> origin/Dhruvesh
       "projectName": "GitCrudMVC",
       "projectPath": "D:\\Company-assginment\\Internship-assignment\\GroupE\\GitCrudMVC\\GitCrudMVC.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
@@ -455,13 +477,20 @@
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> origin/Devarsh
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+<<<<<<< HEAD
+=======
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
         "C:\\Program Files\\dotnet\\library-packs": {},
+=======
+>>>>>>> origin/Devarsh
+>>>>>>> origin/Dhruvesh
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -504,7 +533,15 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+=======
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
+>>>>>>> origin/Devarsh
+>>>>>>> origin/Dhruvesh
       }
     }
   },

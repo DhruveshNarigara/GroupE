@@ -436,23 +436,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Computer Land\\.nuget\\packages\\": {},
+    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GroupE\\GitCrudMVC\\GitCrudMVC.csproj",
+      "projectUniqueName": "D:\\Company-assginment\\Internship-assignment\\GroupE\\GitCrudMVC\\GitCrudMVC.csproj",
       "projectName": "GitCrudMVC",
-      "projectPath": "C:\\GroupE\\GitCrudMVC\\GitCrudMVC.csproj",
-      "packagesPath": "C:\\Users\\Computer Land\\.nuget\\packages\\",
-      "outputPath": "C:\\GroupE\\GitCrudMVC\\obj\\",
+      "projectPath": "D:\\Company-assginment\\Internship-assignment\\GroupE\\GitCrudMVC\\GitCrudMVC.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "D:\\Company-assginment\\Internship-assignment\\GroupE\\GitCrudMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Computer Land\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

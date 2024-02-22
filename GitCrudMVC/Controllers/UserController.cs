@@ -38,10 +38,6 @@ namespace GitCrudMVC.Controllers
         {
             return View("Error!");
         }
-        [HttpGet]
-        public IActionResult Register()
-        {
-            return View();
-        }
+       
     }
 }

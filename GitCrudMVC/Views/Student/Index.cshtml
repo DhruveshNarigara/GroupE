@@ -1,0 +1,107 @@
+
+
+@model GitCrudMVC.Models.StudentRegModel
+@{
+    ViewData["Title"] = "INDEX";
+    var languages = new List<string> { "Gujarati", "Marathi", "English" };
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Students</title>
+    <style>
+        .container-fluid {
+            margin: 20px;
+        }
+
+        h2 {
+            margin-bottom: 20px;
+        }
+
+        .btn-create {
+            float: right;
+            margin-bottom: 20px;
+        }
+
+        table {
+            border-collapse: collapse;
+           margin-left: -10%;
+        }
+
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container-fluid">
+    <h2>Students</h2>
+
+    <a asp-action="Create" class="btn-create">Create New Student</a>
+
+    <div>
+        <table class="table table-stripped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Date of Birth</th>
+                    <th>Email</th>
+                    <th>Gender</th>
+                    <th>Mobile</th>
+                    <th>Address</th>
+                    <th>Course ID</th>
+                    <th>Languages</th>
+                    <th>Photo</th>
+                    <th>Document</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var student in Model)
+                {
+                    <tr>
+                        <td>@student.c_studid</td>
+                        <td>@student.c_studname</td>
+                        <td>@student.c_studdob.ToShortDateString()</td>
+                        <td>@student.c_studemail</td>
+                        <td>@student.c_studgender</td>
+                        <td>@student.c_studmobile</td>
+                        <td>@student.c_studaddress</td>
+                        <td>@student.c_studcourse_id</td>
+                        <td>@string.Join(", ", student.c_studlanguages)</td>
+                        <td>
+                            <img src="@Url.Action("GetPhoto", "Student", new { id = student.c_studid })" alt="Student Photo"
+                                width="100" />
+                        </td>
+                        <td>
+                            <a href="@Url.Action("GetDocument", "Student", new { id = student.c_studid })" class="btn-primary">Download Document</a>
+                        </td>
+                        <td>
+                            <div class="btn-group">
+                                <a asp-action="Edit" asp-route-id="@student.c_studid" class="btn-warning">Edit</a>
+                                <a asp-action="Delete" asp-route-id="@student.c_studid" class="btn-danger">Delete</a>
+                                <a asp-action="Details" asp-route-id="@student.c_studid" class="btn-info">Details</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+</body>
+</html>

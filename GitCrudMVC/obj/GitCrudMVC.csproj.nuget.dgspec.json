@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/preyamehta/GroupE/GitCrudMVC/GitCrudMVC.csproj": {}
+    "/Users/preyamehta/Documents/GroupE/GitCrudMVC/GitCrudMVC.csproj": {}
   },
   "projects": {
-    "/Users/preyamehta/GroupE/GitCrudMVC/GitCrudMVC.csproj": {
+    "/Users/preyamehta/Documents/GroupE/GitCrudMVC/GitCrudMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/preyamehta/GroupE/GitCrudMVC/GitCrudMVC.csproj",
+        "projectUniqueName": "/Users/preyamehta/Documents/GroupE/GitCrudMVC/GitCrudMVC.csproj",
         "projectName": "GitCrudMVC",
-        "projectPath": "/Users/preyamehta/GroupE/GitCrudMVC/GitCrudMVC.csproj",
+        "projectPath": "/Users/preyamehta/Documents/GroupE/GitCrudMVC/GitCrudMVC.csproj",
         "packagesPath": "/Users/preyamehta/.nuget/packages/",
-        "outputPath": "/Users/preyamehta/GroupE/GitCrudMVC/obj/",
+        "outputPath": "/Users/preyamehta/Documents/GroupE/GitCrudMVC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/preyamehta/.nuget/NuGet/NuGet.Config"

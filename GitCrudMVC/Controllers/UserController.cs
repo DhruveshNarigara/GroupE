@@ -8,7 +8,7 @@ using Microsoft.Extensions.Logging;
 
 namespace GitCrudMVC.Controllers
 {
-    [Route("[controller]")]
+    //[Route("[controller]")]
     public class UserController : Controller
     {
         private readonly ILogger<UserController> _logger;
@@ -27,6 +27,11 @@ namespace GitCrudMVC.Controllers
         public IActionResult Error()
         {
             return View("Error!");
+        }
+        [HttpGet]
+        public IActionResult Register()
+        {
+            return View();
         }
     }
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Users/dhruveshnarigara/Documents/CASE POINT INTERNSHIP/DOTNET CORE MVC CLAERNT/GroupE/GitCrudMVC/obj/Debug/net6.0/GitCrudMVC.csproj.AssemblyReference.cache
 /Users/dhruveshnarigara/Documents/CASE POINT INTERNSHIP/DOTNET CORE MVC CLAERNT/GroupE/GitCrudMVC/obj/Debug/net6.0/GitCrudMVC.GeneratedMSBuildEditorConfig.editorconfig
 /Users/dhruveshnarigara/Documents/CASE POINT INTERNSHIP/DOTNET CORE MVC CLAERNT/GroupE/GitCrudMVC/obj/Debug/net6.0/GitCrudMVC.AssemblyInfoInputs.cache
@@ -32,3 +33,39 @@
 /Users/dhruveshnarigara/Documents/CASE POINT INTERNSHIP/DOTNET CORE MVC CLAERNT/GroupE/GitCrudMVC/obj/Debug/net6.0/GitCrudMVC.pdb
 /Users/dhruveshnarigara/Documents/CASE POINT INTERNSHIP/DOTNET CORE MVC CLAERNT/GroupE/GitCrudMVC/obj/Debug/net6.0/GitCrudMVC.genruntimeconfig.cache
 /Users/dhruveshnarigara/Documents/CASE POINT INTERNSHIP/DOTNET CORE MVC CLAERNT/GroupE/GitCrudMVC/obj/Debug/net6.0/ref/GitCrudMVC.dll
+=======
+C:\interns053\GroupE-1\GitCrudMVC\obj\Debug\net6.0\GitCrudMVC.csproj.AssemblyReference.cache
+C:\interns053\GroupE-1\GitCrudMVC\obj\Debug\net6.0\GitCrudMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\interns053\GroupE-1\GitCrudMVC\obj\Debug\net6.0\GitCrudMVC.AssemblyInfoInputs.cache
+C:\interns053\GroupE-1\GitCrudMVC\obj\Debug\net6.0\GitCrudMVC.AssemblyInfo.cs
+C:\interns053\GroupE-1\GitCrudMVC\obj\Debug\net6.0\GitCrudMVC.csproj.CoreCompileInputs.cache
+C:\interns053\GroupE-1\GitCrudMVC\obj\Debug\net6.0\GitCrudMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\interns053\GroupE-1\GitCrudMVC\obj\Debug\net6.0\GitCrudMVC.RazorAssemblyInfo.cache
+C:\interns053\GroupE-1\GitCrudMVC\obj\Debug\net6.0\GitCrudMVC.RazorAssemblyInfo.cs
+C:\interns053\GroupE-1\GitCrudMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\interns053\GroupE-1\GitCrudMVC\bin\Debug\net6.0\appsettings.json
+C:\interns053\GroupE-1\GitCrudMVC\bin\Debug\net6.0\GitCrudMVC.staticwebassets.runtime.json
+C:\interns053\GroupE-1\GitCrudMVC\bin\Debug\net6.0\GitCrudMVC.exe
+C:\interns053\GroupE-1\GitCrudMVC\bin\Debug\net6.0\GitCrudMVC.deps.json
+C:\interns053\GroupE-1\GitCrudMVC\bin\Debug\net6.0\GitCrudMVC.runtimeconfig.json
+C:\interns053\GroupE-1\GitCrudMVC\bin\Debug\net6.0\GitCrudMVC.dll
+C:\interns053\GroupE-1\GitCrudMVC\bin\Debug\net6.0\GitCrudMVC.pdb
+C:\interns053\GroupE-1\GitCrudMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\interns053\GroupE-1\GitCrudMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\interns053\GroupE-1\GitCrudMVC\bin\Debug\net6.0\Npgsql.dll
+C:\interns053\GroupE-1\GitCrudMVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\interns053\GroupE-1\GitCrudMVC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\interns053\GroupE-1\GitCrudMVC\bin\Debug\net6.0\System.Text.Json.dll
+C:\interns053\GroupE-1\GitCrudMVC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\interns053\GroupE-1\GitCrudMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\interns053\GroupE-1\GitCrudMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\interns053\GroupE-1\GitCrudMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\interns053\GroupE-1\GitCrudMVC\obj\Debug\net6.0\scopedcss\bundle\GitCrudMVC.styles.css
+C:\interns053\GroupE-1\GitCrudMVC\obj\Debug\net6.0\scopedcss\projectbundle\GitCrudMVC.bundle.scp.css
+C:\interns053\GroupE-1\GitCrudMVC\obj\Debug\net6.0\GitCrudMVC.csproj.CopyComplete
+C:\interns053\GroupE-1\GitCrudMVC\obj\Debug\net6.0\GitCrudMVC.dll
+C:\interns053\GroupE-1\GitCrudMVC\obj\Debug\net6.0\refint\GitCrudMVC.dll
+C:\interns053\GroupE-1\GitCrudMVC\obj\Debug\net6.0\GitCrudMVC.pdb
+C:\interns053\GroupE-1\GitCrudMVC\obj\Debug\net6.0\GitCrudMVC.genruntimeconfig.cache
+C:\interns053\GroupE-1\GitCrudMVC\obj\Debug\net6.0\ref\GitCrudMVC.dll
+>>>>>>> origin/Devarsh

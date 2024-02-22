@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GitCrudMVC", "GitCrudMVC\GitCrudMVC.csproj", "{5D1E80D5-D70D-459B-8C4B-96DCB5363569}"
+=======
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GitCrudMVC", "GitCrudMVC\GitCrudMVC.csproj", "{A923F21D-0A61-4FA4-9C36-6C23B3B96AED}"
+>>>>>>> 3af9e35a54bf6cf8d63b5a61b1f7be666cb1264d
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +15,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 		{5D1E80D5-D70D-459B-8C4B-96DCB5363569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5D1E80D5-D70D-459B-8C4B-96DCB5363569}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D1E80D5-D70D-459B-8C4B-96DCB5363569}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D1E80D5-D70D-459B-8C4B-96DCB5363569}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{A923F21D-0A61-4FA4-9C36-6C23B3B96AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A923F21D-0A61-4FA4-9C36-6C23B3B96AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A923F21D-0A61-4FA4-9C36-6C23B3B96AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A923F21D-0A61-4FA4-9C36-6C23B3B96AED}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 3af9e35a54bf6cf8d63b5a61b1f7be666cb1264d
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
 		SolutionGuid = {17968F43-9588-4B5A-B7B5-753F2E851D3F}
+=======
+		SolutionGuid = {68BE6974-B5B1-4EA7-A6C7-F7DCAD3B3AB0}
+>>>>>>> 3af9e35a54bf6cf8d63b5a61b1f7be666cb1264d
 	EndGlobalSection
 EndGlobal

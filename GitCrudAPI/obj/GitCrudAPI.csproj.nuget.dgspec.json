@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GroupE\\GitCrudMVC\\GitCrudMVC.csproj": {}
+    "/Users/dhruveshnarigara/Documents/CASE POINT INTERNSHIP/DOTNET CORE MVC CLAERNT/GroupE/GitCrudAPI/GitCrudAPI.csproj": {}
   },
   "projects": {
-    "C:\\GroupE\\GitCrudMVC\\GitCrudMVC.csproj": {
+    "/Users/dhruveshnarigara/Documents/CASE POINT INTERNSHIP/DOTNET CORE MVC CLAERNT/GroupE/GitCrudAPI/GitCrudAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GroupE\\GitCrudMVC\\GitCrudMVC.csproj",
-        "projectName": "GitCrudMVC",
-        "projectPath": "C:\\GroupE\\GitCrudMVC\\GitCrudMVC.csproj",
-        "packagesPath": "C:\\Users\\Computer Land\\.nuget\\packages\\",
-        "outputPath": "C:\\GroupE\\GitCrudMVC\\obj\\",
+        "projectUniqueName": "/Users/dhruveshnarigara/Documents/CASE POINT INTERNSHIP/DOTNET CORE MVC CLAERNT/GroupE/GitCrudAPI/GitCrudAPI.csproj",
+        "projectName": "GitCrudAPI",
+        "projectPath": "/Users/dhruveshnarigara/Documents/CASE POINT INTERNSHIP/DOTNET CORE MVC CLAERNT/GroupE/GitCrudAPI/GitCrudAPI.csproj",
+        "packagesPath": "/Users/dhruveshnarigara/.nuget/packages/",
+        "outputPath": "/Users/dhruveshnarigara/Documents/CASE POINT INTERNSHIP/DOTNET CORE MVC CLAERNT/GroupE/GitCrudAPI/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Computer Land\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/dhruveshnarigara/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -48,6 +41,10 @@
             "Npgsql": {
               "target": "Package",
               "version": "[8.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -69,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
         }
       }
     }

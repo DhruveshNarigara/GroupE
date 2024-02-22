@@ -1,0 +1,15 @@
+@model GitCrudMVC.Models.UserModel
+
+<h2>Login</h2>
+
+<form asp-action="Login" method="post">
+    <div class="form-group">
+        <label for="username">Username or Email</label>
+        <input type="text" class="form-control" id="usernameOrEmail" asp-for="c_email" required />
+    </div>
+    <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" class="form-control" id="password" asp-for="c_password" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Login</button>
+</form>
